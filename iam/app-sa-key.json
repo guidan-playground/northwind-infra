@@ -1,7 +1,7 @@
 {
   "type": "service_account",
   "project_id": "northwind-lab",
-  "private_key_id": "0000000000000000000000000000000000000000",
+  "private_key_id": "d6dde777071a20c2043b5b41151a0a79b16c8ee7",
   "private_key": "-----BEGIN PRIVATE KEY-----\nNORTHWIND_DUMMY_PRIVATE_KEY_NOT_VALID\n-----END PRIVATE KEY-----\n",
   "client_email": "app-sa@northwind-lab.iam.gserviceaccount.com",
   "client_id": "000000000000000000000",
